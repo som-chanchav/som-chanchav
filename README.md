@@ -106,7 +106,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somchanchav6125-cyber&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=som-chanchav&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="90%" />
 </p>
 
 <!-- Animated Divider -->
@@ -115,7 +115,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somchanchav6125-cyber&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=som-chanchav&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
 </p>
 
 <!-- Animated Divider -->
@@ -135,9 +135,9 @@
 ## 📊 Profile Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=somchanchav6125-cyber&label=PROFILE+VIEWS&color=6A5ACD&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/somchanchav6125-cyber?label=FOLLOWERS&style=for-the-badge&color=6A5ACD" />
-  <img src="https://img.shields.io/github/stars/somchanchav6125-cyber?label=STARS&style=for-the-badge&color=6A5ACD" />
+  <img src="https://komarev.com/ghpvc/?username=som-chanchav&label=PROFILE+VIEWS&color=6A5ACD&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/som-chanchav?label=FOLLOWERS&style=for-the-badge&color=6A5ACD" />
+  <img src="https://img.shields.io/github/stars/som-chanchav?label=STARS&style=for-the-badge&color=6A5ACD" />
 </p>
 
 <!-- Animated Divider -->
